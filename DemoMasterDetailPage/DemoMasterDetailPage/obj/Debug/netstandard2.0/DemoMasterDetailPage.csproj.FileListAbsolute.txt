@@ -1,0 +1,13 @@
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\bin\Debug\netstandard2.0\DemoMasterDetailPage.deps.json
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\bin\Debug\netstandard2.0\DemoMasterDetailPage.dll
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\bin\Debug\netstandard2.0\DemoMasterDetailPage.pdb
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.csprojResolveAssemblyReference.cache
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.csproj.CoreCompileInputs.cache
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.App.xaml.g.cs
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.Detalle.xaml.g.cs
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.Maestro.xaml.g.cs
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.MainPage.xaml.g.cs
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.AssemblyInfoInputs.cache
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.AssemblyInfo.cs
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.dll
+c:\users\tatiana\source\repos\DemoMasterDetailPage\DemoMasterDetailPage\DemoMasterDetailPage\obj\Debug\netstandard2.0\DemoMasterDetailPage.pdb
